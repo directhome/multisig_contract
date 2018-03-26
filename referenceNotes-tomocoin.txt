@@ -1,0 +1,15 @@
+referenceNotes-tomocoin.txt
+
+erc20: 0x8b353021189375591723E7384262F45709A3C3dC
+multisig: 0x9B1356cc6213b5D93a9aFB34804BA87BDFF37EA6
+
+creator: 0xa946AEA6747Ec60a6cd152Ac0877D8bEb3E8685d, he is also the person who manually transfers the presale token to private investors by hand (46M TOMO)
+
+
+8.  getOwners    address[]
+0xca934cc08e6eb4607acb55654bccdb952e277487,
+0x8b700eee25262243ed9dd053dd3ecbb1bcca51ce,
+0x930b489e72464eb12c8937e65014600c651d27f0
+
+
+https://ether.direct/2017/06/29/erc20-coins-and-the-multisig-wallet/
